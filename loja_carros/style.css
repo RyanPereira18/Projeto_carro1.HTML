@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    color: #111; 
+}
+
+
+h2 {
+    color: #febe01; 
+}
+
+
+p {
+    color: #b2b2b2; 
+}
+
+
+button {
+    background-color: #febe01; 
+    color: #332200; 
+    border-radius: 4px;
+}
